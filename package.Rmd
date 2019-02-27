@@ -2,4 +2,4 @@
 title: "Packages"
 ---
 
-Now I find ggplot2 and tidyverse are very useful!
+Now I find ggplot2 and tidyverse very useful!

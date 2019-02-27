@@ -4,4 +4,4 @@ title: "Welcome to My Website"
       
 Hello, I am Jing Hou! I am currently a first-year graduate student in Department of Statistics at Iowa State University.
 
-This is my first website! So there is nothing special in my website so far. More things need to be developed in the following years!
+This is my first website! So there is nothing special in my website so far. More things will be developed in the following years!
