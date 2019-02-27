@@ -1,9 +1,12 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Jing's Website"
   left:
     - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
     - text: "Packages"
       href: package.html
+    
