@@ -5,5 +5,8 @@ output:
     df_print: paged
 ---
 
-I love cat!
+I love cat very much! I have adopted a kitten from animal shelter. 
+
+His name is Cooper, and he is super playful!
+
 ![](cooper.jpg)
